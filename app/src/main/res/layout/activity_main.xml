@@ -27,6 +27,8 @@
         android:layout_gravity="bottom|end"
         android:layout_marginEnd="@dimen/fab_margin"
         android:layout_marginBottom="16dp"
+        app:backgroundTint="@color/teal_200"
+        app:tint="@color/white"
         app:srcCompat="@android:drawable/ic_menu_camera"/>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
